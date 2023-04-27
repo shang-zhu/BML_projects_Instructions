@@ -1,8 +1,10 @@
 # BML_projects_Instructions
 
 This is a repo providing instructions for BML class projects, designed by Shang Zhu (Advisor: Venkat Viswanathan)
-course string: 24786, CMU, 'Special Topics: Bayesian Machine Learning for Scientists and Engineers'
-more can be found [here](https://www.meche.engineering.cmu.edu/education/courses/24-786.html)
+
+Course string: 24786, CMU, 'Special Topics: Bayesian Machine Learning for Scientists and Engineers'
+
+More about the class can be found [here](https://www.meche.engineering.cmu.edu/education/courses/24-786.html)
 
 ## Project Idea 1: Inverse Design for Airfoils 
 (Credit to Varun Shankar, CMU)
